@@ -58,4 +58,4 @@ gem 'will_paginate', '~> 3.1.0'
 gem 'carrierwave'
 gem "fog-aws"
 
-ruby "2.4.1"
+ruby "2.6.5"
